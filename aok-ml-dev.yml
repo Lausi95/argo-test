@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoUrl: https://github.com/Lausi95/argo-test.git
+    repoURL: https://github.com/Lausi95/argo-test.git
     targetRevision: HEAD
     path: dev
   destination:
